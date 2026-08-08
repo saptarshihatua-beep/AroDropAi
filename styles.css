@@ -192,6 +192,12 @@ footer { background: var(--bg-dark); color: var(--white); padding: 60px 0 30px; 
     .hero h1 { font-size: 2.5rem; }
     .nav-links { display: none; } /* Add a hamburger menu for full production */
 }
+.weather-section {
+  background: linear-gradient(135deg, #0f172a, #06103d);
+  color: white;
+  padding: 60px 0;
+}
+
 .weather-box {
   padding: 25px;
    background: rgba(141, 186, 198, 0.731);
